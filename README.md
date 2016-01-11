@@ -1,4 +1,4 @@
-AppWarpCpp
+AppWarp Marmalade SDK
 ==========
 
 AppWarp SDK for Marmalade
